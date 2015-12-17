@@ -1,35 +1,93 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+
+## Added from gitignore.io
+#.ruby-gemset
+#.ruby-version
+#Gemfile.lock
+$RECYCLE.BIN/
+**.orig
+*.bowerrc
+*.cab
+*.DotSettings
 *.gem
+*.lnk
+*.msi
+*.msm
+*.msp
 *.rbc
-/.config
-/coverage/
-/InstalledFiles
-/pkg/
-/spec/reports/
-/test/tmp/
-/test/version_tmp/
-/tmp/
-
-## Specific to RubyMotion:
+*.stTheme.cache
+*.sublime-workspace
+*.tmlanguage.cache
+*.tmp
+*.tmPreferences.cache
+*.un~
+*.xlk
+*~
+._*
+.apdisk
+.AppleDB
+.AppleDesktop
+.AppleDouble
 .dat*
+.directory
+.DocumentRevisions-V100
+.DS_Store
+.fseventsd
+.LSOverride
+.netrwhist
+.powenv
 .repl_history
-build/
-
-## Documentation cache and generated files:
+.rspec
+.rvmrc
+.Spotlight-V100
+.TemporaryItems
+.Trash-*
+.Trashes
+.VolumeIcon.icns
+.~lock.*#
+/.bundle
+/.bundle/
+/.config
 /.yardoc/
 /_yardoc/
+/coverage/
+/db/*.sqlite3
+/db/*.sqlite3-journal
 /doc/
-/rdoc/
-
-## Environment normalisation:
-/.bundle/
-/vendor/bundle
+/InstalledFiles
 /lib/bundler/man/
-
-# for a library or gem, you might want to ignore these files since the code is
-# intended to run in multiple environments; otherwise, check them in:
-# Gemfile.lock
-# .ruby-version
-# .ruby-gemset
-
-# unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
-.rvmrc
+/log
+/pkg/
+/public/system
+/rdoc/
+/spec/examples.txt
+/spec/reports/
+/spec/tmp
+/test/tmp/
+/test/version_tmp/
+/tmp
+/tmp/
+/vendor/assets/bower_components
+/vendor/bundle
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+bower.json
+build/
+capybara-*.html
+config/initializers/secret_token.rb
+config/secrets.yml
+Desktop.ini
+ehthumbs.db
+Icon
+Network Trash Folder
+pickle-email-*.html
+rerun.txt
+Session.vim
+sftp-config.json
+Temporary Items
+Thumbs.db
+~$*.doc*
+~$*.ppt*
+~$*.xls*

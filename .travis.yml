@@ -1,0 +1,18 @@
+language: ruby
+cache: bundler
+
+before_script:
+ - chmod +x cibuild
+
+script: ./cibuild
+
+# branch whitelist, only for GitHub Pages
+branches:
+  only:
+  - master
+  - /pages-(.*)/
+
+env:
+  global:
+  - RBENV_VERSION="2.2.3"
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true

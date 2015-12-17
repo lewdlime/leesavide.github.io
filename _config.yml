@@ -1,0 +1,55 @@
+# Site settings
+title: Lee - ̗̀(●▽● ) ̖́-
+email: leesavide@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  ᕕ( ●▽●)ᕗ I am not on fire!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://leesavide.github.io" # the base hostname & protocol for your site
+twitter_username: lewdlime
+github_username:  leesavide
+gems: ["jekyll", "jekyll-compose", "jekyll-mentions", "jemoji", "jekyll-redirect-from", "jekyll-sitemap", "jekyll-feed"]
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
+exclude: [vendor]
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      author: "Lee Savide"
+  -
+    scope:
+      path: "/music/"
+      type: "posts"
+    values:
+      layout: "default"
+      author: "Lee Savide"
+      category: "music"
+  -
+    scope:
+      path: "LICENSE.html"
+      type: "pages"
+    values:
+      layout: "page"
+
+more_vert:
+  option1:
+    name: Music
+    link: "/music/"
+  option2:
+    name: About
+    link: "/about/"
+  option3:
+    name: License
+    link: "/LICENSE.html"
+
+disqus: true
+disqus_shortname: 'leesavide'
+
+# Build settings
+markdown: kramdown
