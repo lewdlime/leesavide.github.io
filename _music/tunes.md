@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: "Tunes"
 ---
 # ABC Music Tunes
 
+<div class="page-content">
 <pre class="abc-tune">
 
     X:2562
@@ -22,7 +23,7 @@ title: "Tunes"
     BA G4|AB F4|E2 E4-|E6||
 
 </pre>
-<pre class="abc-tune">
+<pre layout-fill class="abc-tune">
 
     X:0850
     T:Donald of Dundee.
@@ -60,3 +61,4 @@ title: "Tunes"
     W:the Internet center for free sheet music downloads.
 
 </pre>
+</div>

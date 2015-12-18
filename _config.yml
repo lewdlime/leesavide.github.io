@@ -3,15 +3,15 @@ title: Lee - ̗̀(●▽● ) ̖́-
 email: leesavide@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   ᕕ( ●▽●)ᕗ I am not on fire!
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://leesavide.github.io" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://leesavide.github.io"
 twitter_username: lewdlime
 github_username:  leesavide
 gems: ["jekyll", "jekyll-compose", "jekyll-mentions", "jemoji", "jekyll-redirect-from", "jekyll-sitemap", "jekyll-feed"]
-# Layout settings
-header_type: default  # values [ drawer, default ]
-post_type: highlight    # values [ highlight, default ]
-pagination_type: default  # values [ ops, default ]
+
+header_type: default
+post_type: highlight
+pagination_type: default
 permalink: /:path/
 include: ['_pages']
 exclude: ['vendor', 'cibuild']
@@ -47,6 +47,9 @@ more_vert:
     name: About
     link: "/about-mdl/"
   option2:
+    name: Music
+    link: "/music/"
+  option3:
     name: License
     link: "/LICENSE.html"
 
