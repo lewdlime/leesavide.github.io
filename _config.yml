@@ -12,8 +12,14 @@ gems: ["jekyll", "jekyll-compose", "jekyll-mentions", "jemoji", "jekyll-redirect
 header_type: default  # values [ drawer, default ]
 post_type: highlight    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
+permalink: /:path/
 include: ['_pages']
 exclude: ['vendor', 'cibuild']
+
+collections:
+  music:
+    permalink: /music/:path/
+    output: true
 
 defaults:
   -
@@ -38,12 +44,9 @@ defaults:
 
 more_vert:
   option1:
-    name: Music
-    link: "/music/"
-  option2:
     name: About
     link: "/about-mdl/"
-  option3:
+  option2:
     name: License
     link: "/LICENSE.html"
 
