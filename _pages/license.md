@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Apache License
+permalink: /license/
 ---
-<div class="post-container mdl-grid">
-  <div class="post-section mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--8-col">
-    <h3 align="center">Apache License</h3>
-    <pre class="language-markup">
+
+### Apache License</h3>
+```
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -207,6 +207,4 @@ title: Apache License
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-    </pre>
-  </div>
-</div>
+```
