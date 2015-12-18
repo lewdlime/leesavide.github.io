@@ -31,6 +31,12 @@ defaults:
       author: "Lee Savide"
   -
     scope:
+      path: "/music/"
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
       path: "/about-mdl/"
       type: "pages"
     values:
@@ -46,9 +52,6 @@ more_vert:
   option1:
     name: About
     link: "/about-mdl/"
-  option2:
-    name: Music
-    link: "/music/"
   option3:
     name: License
     link: "/LICENSE.html"
