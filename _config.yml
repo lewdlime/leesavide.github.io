@@ -33,6 +33,12 @@ defaults:
       category: "music"
   -
     scope:
+      path: "/about-mdl/"
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
       path: "LICENSE.html"
       type: "pages"
     values:
@@ -44,7 +50,7 @@ more_vert:
     link: "/music/"
   option2:
     name: About
-    link: "/about/"
+    link: "/about-mdl/"
   option3:
     name: License
     link: "/LICENSE.html"
