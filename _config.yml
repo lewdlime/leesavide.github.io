@@ -12,7 +12,7 @@ gems: ["jekyll", "jekyll-compose", "jekyll-mentions", "jemoji", "jekyll-redirect
 header_type: default  # values [ drawer, default ]
 post_type: highlight    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
-include: '_pages'
+include: ['_pages']
 exclude: ['vendor', 'cibuild']
 
 defaults:
