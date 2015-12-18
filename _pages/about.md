@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Site"
-permalink: /about-mdl
+permalink: /about-mdl/
 ---
 ###### A Jekyll theme based in Google Material Design Lite library.
 
