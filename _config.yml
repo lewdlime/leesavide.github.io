@@ -25,14 +25,6 @@ defaults:
       author: "Lee Savide"
   -
     scope:
-      path: "/music/"
-      type: "posts"
-    values:
-      layout: "default"
-      author: "Lee Savide"
-      category: "music"
-  -
-    scope:
       path: "/about-mdl/"
       type: "pages"
     values:
