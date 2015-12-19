@@ -46,10 +46,10 @@ You can setup 4 types of layout
     - Drawer Nav + Simple Card Grid
     - Drawer Nav + Highlight Post + Card Grid
 
-For using this in the [_config.yml](https://github.com/leesavide/leesavide.github.io/blob/master/_config.yml) select the type of layout, rebuild the website and voilà :smile:
+For using this in the [_config.yml](https://github.com/gdg-managua/jekyll-mdl/master/_config.yml) select the type of layout, rebuild the website and voilà :smile:
 
 ###### Contributing
-If you want to contribute to this project, please read the [CONTRIBUTING](https://github.com/leesavide/leesavide.github.io/blob/master/CONTRIBUTING.md) file and perform the following steps
+If you want to contribute to this project, please read the [CONTRIBUTING](https://github.com/gdg-managua/jekyll-mdl/blob/master/CONTRIBUTING.md) file and perform the following steps
 
     # Fork this repository
     # Clone your fork
