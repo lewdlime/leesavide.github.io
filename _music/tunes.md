@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: music
 title: "Tunes"
 ---
 # ABC Music Tunes
