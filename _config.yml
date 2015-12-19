@@ -31,12 +31,6 @@ defaults:
       author: "Lee Savide"
   -
     scope:
-      path: "/music/"
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
       path: "/about-mdl/"
       type: "pages"
     values:
