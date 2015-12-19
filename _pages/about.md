@@ -3,6 +3,26 @@ layout: page
 title: "About Site"
 permalink: /about-mdl/
 ---
+### About abcjs:
+
+# abcjs
+
+**javascript for rendering abc music notation**
+
+[abcjs Home page](http://abcjs.net)
+
+[API Documentation](https://github.com/paulrosen/abcjs/blob/master/api.md)
+
+[Support of the ABC standard](https://github.com/paulrosen/abcjs/blob/master/abc-notation.md)
+
+This library makes it easy to incorporate **sheet music** into your **websites**. You can also turn visible **ABC** text into sheet music on websites that you don't own using a greasemonkey script, or change your own website that contains ABC text with no other changes than the addition of this javascript file.
+
+**NOTE: We are changing the release license to the MIT License, effective immediately. Let us know if this causes any problems, but we're hoping that it solves some. Our goal is that you can use this library in a convenient way, as long as you give us credit for it.**
+
+License: [The MIT License (MIT)](http://opensource.org/licenses/MIT)
+
+### About jekyll-mdl:
+
 ###### A Jekyll theme based in Google Material Design Lite library.
 
 This is the base Jekyll Material Design Lite theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
