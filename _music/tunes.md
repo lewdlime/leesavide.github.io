@@ -2,8 +2,6 @@
 layout: music
 title: "Tunes"
 ---
-# ABC Music Tunes
-
 <div class="page-content">
 <pre class="abc-tune">
 
