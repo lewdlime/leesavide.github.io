@@ -53,10 +53,6 @@ K:G
 (g/e/)|dBA BGA|GBd g2a|bgd dBG|FAA A2 (g/e/)|dBA BGA|GBd gab|age dBA|BGG
 G2:|
 |:d|edd deg|baa aga|bge dBG|FAA A2d|edd deg|baa aga|bge dBA|BGG G2:|
-W:
-W:
-W:From Musica Viva - http://www.musicaviva.com
-W:the Internet center for free sheet music downloads.
 
 </pre>
 <pre class="abc-tune">
