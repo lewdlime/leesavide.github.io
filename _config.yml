@@ -14,7 +14,7 @@ post_type: highlight
 pagination_type: default
 permalink: /:path/
 include: ['_pages']
-exclude: ['vendor', 'cibuild']
+exclude: ['vendor', 'cibuild', 'LICENSE']
 
 collections:
   music:

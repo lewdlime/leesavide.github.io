@@ -1,8 +1,4 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-
-## Added from gitignore.io
+# gitignore.io
 #.ruby-gemset
 #.ruby-version
 #Gemfile.lock
@@ -35,12 +31,14 @@ $RECYCLE.BIN/
 .DocumentRevisions-V100
 .DS_Store
 .fseventsd
+.jekyll-metadata
 .LSOverride
 .netrwhist
 .powenv
 .repl_history
 .rspec
 .rvmrc
+.sass-cache/
 .Spotlight-V100
 .TemporaryItems
 .Trash-*
@@ -73,6 +71,7 @@ $RECYCLE.BIN/
 /vendor/bundle
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
+_site/
 bower.json
 build/
 capybara-*.html
@@ -88,6 +87,7 @@ Session.vim
 sftp-config.json
 Temporary Items
 Thumbs.db
+tmp/
 ~$*.doc*
 ~$*.ppt*
 ~$*.xls*
