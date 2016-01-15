@@ -35,20 +35,17 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-  -
-    scope:
-      path: "LICENSE.html"
-      type: "pages"
-    values:
-      layout: "page"
 
 more_vert:
   option1:
+    name: Home
+    link: {{site.url}}
+  option2:
     name: About
     link: "/about-mdl/"
   option3:
-    name: License
-    link: "/LICENSE.html"
+    name: Music
+    link: "/music/"
 
 disqus: true
 disqus_shortname: 'leesavide'
