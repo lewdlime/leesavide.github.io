@@ -2,7 +2,6 @@
 layout: default
 title: "The abc music standard 2.1 (Dec 2011)"
 ---
-<div class="page-content">
 
 **NOTE:** This is **NOT** the official page for the abc music standard. This is a copy of the standard, written in Markdown. The official standard is available at [abcnotation.com/wiki/abc:standard](http://abcnotation.com/wiki/abc:standard). This copy is only intended for reference of the version of the current abc music standard, and may *not* be up-to-date with any changes that may be present in the official standard.
 
@@ -2901,5 +2900,3 @@ The following corrections have been made since the standard was published:
  * [Section 4.6 Clefs and transposition](#clefs_and_transposition): following discussion, this section has been corrected to clarify that the `middle` setting does not affect the playback (since there is no consistent way that it can do so). The [Zocharti Loch example](#multiple_voices) has been corrected and its accompanying midi file (which has persisted unchanged from abc draft 2.0, and which seemed to indicate `middle` might, in some circumstances, affect the playback) has been removed (20th February 2013).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />Except where otherwise noted, content on this site is licensed under the following license: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://abcnotation.com/wiki/abc:standard:v2.1" rel="dct:source">http://abcnotation.com/wiki/abc:standard:v2.1</a>.
-
-</div>
