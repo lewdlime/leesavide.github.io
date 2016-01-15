@@ -1,8 +1,7 @@
 ---
 layout: music
-title: "ABC Music Tunes"
+title: "The abc music standard 2.1 (Dec 2011)"
 ---
-# The abc music standard 2.1 (Dec 2011)
 
 **NOTE:** This is **NOT** the official page for the abc music standard. This is a copy of the standard, written in Markdown. The official standard is available at [abcnotation.com/wiki/abc:standard](http://abcnotation.com/wiki/abc:standard). This copy is only intended for reference of the version of the current abc music standard, and may *not* be up-to-date with any changes that may be present in the official standard.
 
