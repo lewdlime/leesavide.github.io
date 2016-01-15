@@ -1,5 +1,5 @@
 ---
-layout: music
+layout: default
 title: "The abc music standard 2.1 (Dec 2011)"
 ---
 
