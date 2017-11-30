@@ -248,7 +248,7 @@ You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://gi
 
 If you are using this cool jekyll theme, please open an issue or fork the project, add your site to the list and send a pull request, we will be happy to know where the theme are using.
 
-[fandekasp.github.io](http://fandekasp.github.io/)
+[adrien.is](https://adrien.is/)
 
 ###### Custom Themes
 
