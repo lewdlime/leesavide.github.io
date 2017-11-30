@@ -14,5 +14,5 @@ branches:
 
 env:
   global:
-  - RBENV_VERSION="2.2.3"
+  - RBENV_VERSION="2.4.2"
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
